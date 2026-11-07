@@ -1,0 +1,5 @@
+PyQt6>=6.6.0
+watchdog>=4.0.0
+# No Google SDK is required: core/gemini_sync.py talks to the Gemini REST API (v1beta)
+# with the standard library. The legacy google-generativeai package is deprecated and
+# does not support Gemini 3.x thinking levels, so it has been removed.
