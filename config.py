@@ -76,21 +76,21 @@ DEFAULT_TAXONOMY = {
     "cloture", "caisse", "transactions", "bank", "finance",
     "accounting", "journal general", "sales", "ventes", "inventaire"
   ],
-  "Esoteric_and_Philosophy_EN_FR": [
-    "rosicrucian", "amorc", "rosae crucis", "qabalah", "tarot",
-    "hermetic", "meditation", "spirituel", "kabbalah", "grimoire", "magie"
+  "Books_and_Reading_EN_FR": [
+    "ebook", "epub", "mobi", "book", "livre", "chapter", "chapitre",
+    "reading", "lecture", "novel", "roman", "magazine"
   ],
   "Automotive_and_Mechanical": [
-    "jeep", "liberty", "nissan", "xterra", "fsm", "haynes",
-    "manual", "mechanic", "engine", "obd", "telemetry"
+    "car", "vehicle", "voiture", "service manual", "mechanic",
+    "engine", "obd", "telemetry", "repair"
   ],
-  "Games_and_Repacks": [
-    "fitgirl", "repack", "skidrow", "codex", "torrent",
-    "game", "setup", "black mesa", "half-life", "splinter cell"
+  "Games": [
+    "game", "jeu", "steam", "epic games", "savegame", "save game",
+    "gameplay", "mod", "modpack"
   ],
   "Media_and_Audio_EN_FR": [
     "audio", "video", "recording", "enregistrement",
-    "clipchamp", "episode", "saison", "webrip", "hdrip"
+    "clipchamp", "episode", "saison", "podcast", "interview"
   ]
 }
 
